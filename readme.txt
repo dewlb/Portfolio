@@ -3,6 +3,8 @@ My name is Ethan Jewell and within this repository is a collection of samples of
 
 LinkedIn: https://www.linkedin.com/in/ethanjewell04/
 
+Repository for Web-based Contact Manager Project (Team): https://github.com/dewlb/SP1
+
 Key: *** means I feel this project is one of the more interesting pieces of code I have.
 
 DriverClass.java: Exploring Java's class system and inheritance, as well as object instantiation.
