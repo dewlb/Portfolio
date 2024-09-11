@@ -1,6 +1,4 @@
 // Ethan Jewell
-// COP3330 11:30am
-// Unit 1 HW1
 
 import java.util.ArrayList;
 import java.util.*;
