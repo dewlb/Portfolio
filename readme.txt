@@ -11,6 +11,8 @@ Key: *** means I feel this project is one of the more interesting pieces of code
 
 ***MatchingGame: I designed a two player card-matching game in python, the assests are not my own but everything else is from scratch.
 DriverClass.java: Exploring Java's class system and inheritance, as well as object instantiation.
+Game.java:
+HopStep.java:
 Login.php: Modification of some sample code, but my first API endpoint file I have produced.
 PythonDataAnalysis.ipynb: An assignent for one of my classes demonstrating basic knowledge over some of the libraries Python has to offer.
 TriePrediction.c: Predicting possible words in a string based on previously inputted data. Incorporates the data structure Trie.
