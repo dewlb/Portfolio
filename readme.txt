@@ -4,7 +4,7 @@ My name is Ethan Jewell and within this repository is a collection of samples of
 
 ////////////////////////////////////////////////////////EXTERNAL LINKS////////////////////////////////////////////////////
 LinkedIn: https://www.linkedin.com/in/ethanjewell04/
-Repository for Web-based Contact Manager Project (Team): https://github.com/dewlb/SP1
+Repository for full-stack Web-based Contact Manager Project (Team): https://github.com/dewlb/SP1
 
 ///////////////////////////////////////////////////////FILE DESCRIPTIONS//////////////////////////////////////////////////
 Key: *** means I feel this project is one of the more interesting pieces of code I have.
