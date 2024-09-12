@@ -9,6 +9,7 @@ Repository for Web-based Contact Manager Project (Team): https://github.com/dewl
 ///////////////////////////////////////////////////////FILE DESCRIPTIONS//////////////////////////////////////////////////
 Key: *** means I feel this project is one of the more interesting pieces of code I have.
 
+***MatchingGame: I designed a two player card-matching game in python, the assests are not my own but everything else is from scratch.
 DriverClass.java: Exploring Java's class system and inheritance, as well as object instantiation.
 Login.php: Modification of some sample code, but my first API endpoint file I have produced.
 PythonDataAnalysis.ipynb: An assignent for one of my classes demonstrating basic knowledge over some of the libraries Python has to offer.
